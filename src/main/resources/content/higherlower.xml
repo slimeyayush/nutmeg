@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  HIGHER OR LOWER — each <category> needs at least 8 items.
+  "higher" / "lower" are the button labels (e.g. More/Fewer, Later/Earlier).
+  Stick to numbers that can't change: retired players, birth years, founding years.
+  Double-check anything you add; your mates will.
+-->
+<higherlower>
+  <category label="Premier League goals" question="More or fewer Premier League goals?" higher="More" lower="Fewer">
+    <item value="260">Alan Shearer</item>
+    <item value="213">Harry Kane</item>
+    <item value="208">Wayne Rooney</item>
+    <item value="187">Andy Cole</item>
+    <item value="184">Sergio Aguero</item>
+    <item value="177">Frank Lampard</item>
+    <item value="175">Thierry Henry</item>
+    <item value="163">Robbie Fowler</item>
+    <item value="162">Jermain Defoe</item>
+    <item value="150">Michael Owen</item>
+    <item value="149">Les Ferdinand</item>
+    <item value="146">Teddy Sheringham</item>
+    <item value="144">Robin van Persie</item>
+    <item value="127">Jimmy Floyd Hasselbaink</item>
+    <item value="126">Robbie Keane</item>
+    <item value="125">Nicolas Anelka</item>
+    <item value="123">Dwight Yorke</item>
+    <item value="120">Steven Gerrard</item>
+    <item value="113">Ian Wright</item>
+    <item value="111">Dion Dublin</item>
+    <item value="110">Emile Heskey</item>
+    <item value="109">Ryan Giggs</item>
+    <item value="108">Peter Crouch</item>
+    <item value="107">Paul Scholes</item>
+    <item value="104">Didier Drogba</item>
+    <item value="103">Cristiano Ronaldo</item>
+    <item value="100">Matt Le Tissier</item>
+  </category>
+
+  <category label="World Cup goals" question="More or fewer World Cup goals?" higher="More" lower="Fewer">
+    <item value="16">Miroslav Klose</item>
+    <item value="15">Ronaldo Nazario</item>
+    <item value="14">Gerd Muller</item>
+    <item value="13">Just Fontaine</item>
+    <item value="12">Pele</item>
+    <item value="11">Jurgen Klinsmann</item>
+    <item value="11">Sandor Kocsis</item>
+    <item value="10">Gary Lineker</item>
+    <item value="10">Gabriel Batistuta</item>
+    <item value="10">Thomas Muller</item>
+    <item value="9">Eusebio</item>
+    <item value="9">Roberto Baggio</item>
+    <item value="9">Christian Vieri</item>
+    <item value="9">Paolo Rossi</item>
+    <item value="9">David Villa</item>
+    <item value="8">Rivaldo</item>
+    <item value="8">Diego Maradona</item>
+    <item value="8">Rudi Voller</item>
+    <item value="6">Thierry Henry</item>
+    <item value="6">Davor Suker</item>
+    <item value="5">Zinedine Zidane</item>
+    <item value="3">David Beckham</item>
+    <item value="2">Ronaldinho</item>
+  </category>
+
+  <category label="Year born" question="Born later or earlier?" higher="Later" lower="Earlier">
+    <item value="1926">Alfredo Di Stefano</item>
+    <item value="1927">Ferenc Puskas</item>
+    <item value="1940">Pele</item>
+    <item value="1942">Eusebio</item>
+    <item value="1945">Franz Beckenbauer</item>
+    <item value="1947">Johan Cruyff</item>
+    <item value="1955">Michel Platini</item>
+    <item value="1960">Diego Maradona</item>
+    <item value="1964">Marco van Basten</item>
+    <item value="1967">Roberto Baggio</item>
+    <item value="1968">Paolo Maldini</item>
+    <item value="1972">Zinedine Zidane</item>
+    <item value="1975">David Beckham</item>
+    <item value="1976">Ronaldo Nazario</item>
+    <item value="1977">Thierry Henry</item>
+    <item value="1978">Gianluigi Buffon</item>
+    <item value="1979">Andrea Pirlo</item>
+    <item value="1980">Ronaldinho</item>
+    <item value="1981">Zlatan Ibrahimovic</item>
+    <item value="1982">Kaka</item>
+    <item value="1984">Andres Iniesta</item>
+    <item value="1985">Cristiano Ronaldo</item>
+    <item value="1986">Sergio Ramos</item>
+    <item value="1987">Lionel Messi</item>
+    <item value="1988">Robert Lewandowski</item>
+    <item value="1991">Kevin De Bruyne</item>
+    <item value="1992">Mohamed Salah</item>
+    <item value="1993">Harry Kane</item>
+    <item value="1996">Rodri</item>
+    <item value="1998">Kylian Mbappe</item>
+    <item value="2000">Erling Haaland</item>
+    <item value="2001">Bukayo Saka</item>
+    <item value="2002">Pedri</item>
+    <item value="2003">Jude Bellingham</item>
+    <item value="2007">Lamine Yamal</item>
+  </category>
+
+  <category label="Year founded" question="Founded later or earlier?" higher="Later" lower="Earlier">
+    <item value="1857">Sheffield FC</item>
+    <item value="1862">Notts County</item>
+    <item value="1872">Rangers</item>
+    <item value="1874">Aston Villa</item>
+    <item value="1878">Everton</item>
+    <item value="1880">Manchester City</item>
+    <item value="1882">Tottenham</item>
+    <item value="1886">Arsenal</item>
+    <item value="1887">Celtic</item>
+    <item value="1892">Liverpool</item>
+    <item value="1893">Porto</item>
+    <item value="1895">Flamengo</item>
+    <item value="1897">Juventus</item>
+    <item value="1899">Barcelona</item>
+    <item value="1900">Bayern Munich</item>
+    <item value="1901">River Plate</item>
+    <item value="1902">Real Madrid</item>
+    <item value="1903">Atletico Madrid</item>
+    <item value="1904">Benfica</item>
+    <item value="1905">Chelsea</item>
+    <item value="1906">Sporting CP</item>
+    <item value="1908">Inter Milan</item>
+    <item value="1909">Borussia Dortmund</item>
+    <item value="1912">Santos</item>
+    <item value="1913">PSV</item>
+    <item value="1919">Leeds United</item>
+    <item value="1926">Napoli</item>
+    <item value="1927">Roma</item>
+    <item value="1950">Lyon</item>
+    <item value="1970">Paris Saint-Germain</item>
+    <item value="2009">RB Leipzig</item>
+  </category>
+</higherlower>

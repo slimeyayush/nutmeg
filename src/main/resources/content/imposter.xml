@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  IMPOSTER — each <cluster> is a group of SIMILAR players.
+  Each round, two different names are drawn from one cluster:
+  everyone gets the first, the imposter gets the second.
+  The more alike the names in a cluster, the harder the round.
+-->
+<imposter>
+  <cluster><player>Zinedine Zidane</player><player>Andrea Pirlo</player><player>Xavi</player><player>Luka Modric</player></cluster>
+  <cluster><player>Lionel Messi</player><player>Cristiano Ronaldo</player><player>Neymar</player><player>Kylian Mbappe</player></cluster>
+  <cluster><player>Paolo Maldini</player><player>Franco Baresi</player><player>Alessandro Nesta</player><player>Fabio Cannavaro</player></cluster>
+  <cluster><player>Iker Casillas</player><player>Gianluigi Buffon</player><player>Petr Cech</player><player>Manuel Neuer</player></cluster>
+  <cluster><player>Ronaldinho</player><player>Kaka</player><player>Rivaldo</player><player>Roberto Carlos</player></cluster>
+  <cluster><player>Steven Gerrard</player><player>Frank Lampard</player><player>Paul Scholes</player><player>Michael Carrick</player></cluster>
+  <cluster><player>Thierry Henry</player><player>Didier Drogba</player><player>Ruud van Nistelrooy</player><player>Alan Shearer</player></cluster>
+  <cluster><player>Sergio Ramos</player><player>Gerard Pique</player><player>Vincent Kompany</player><player>Virgil van Dijk</player></cluster>
+  <cluster><player>Erling Haaland</player><player>Robert Lewandowski</player><player>Harry Kane</player><player>Karim Benzema</player></cluster>
+  <cluster><player>Andres Iniesta</player><player>David Silva</player><player>Mesut Ozil</player><player>Kevin De Bruyne</player></cluster>
+  <cluster><player>Ryan Giggs</player><player>David Beckham</player><player>Arjen Robben</player><player>Franck Ribery</player></cluster>
+  <cluster><player>N'Golo Kante</player><player>Sergio Busquets</player><player>Casemiro</player><player>Rodri</player></cluster>
+  <cluster><player>Mohamed Salah</player><player>Sadio Mane</player><player>Raheem Sterling</player><player>Bukayo Saka</player></cluster>
+  <cluster><player>Dani Alves</player><player>Cafu</player><player>Philipp Lahm</player><player>Trent Alexander-Arnold</player></cluster>
+  <cluster><player>Zlatan Ibrahimovic</player><player>Luis Suarez</player><player>Edinson Cavani</player><player>Sergio Aguero</player></cluster>
+  <cluster><player>Pele</player><player>Diego Maradona</player><player>Johan Cruyff</player><player>Franz Beckenbauer</player></cluster>
+  <cluster><player>Wayne Rooney</player><player>Michael Owen</player><player>Robbie Fowler</player><player>Jermain Defoe</player></cluster>
+  <cluster><player>Jude Bellingham</player><player>Pedri</player><player>Jamal Musiala</player><player>Florian Wirtz</player></cluster>
+  <cluster><player>Lamine Yamal</player><player>Vinicius Junior</player><player>Rafael Leao</player><player>Kvicha Kvaratskhelia</player></cluster>
+  <cluster><player>Patrick Vieira</player><player>Roy Keane</player><player>Claude Makelele</player><player>Yaya Toure</player></cluster>
+  <cluster><player>Rio Ferdinand</player><player>John Terry</player><player>Nemanja Vidic</player><player>Jamie Carragher</player></cluster>
+  <cluster><player>Fernando Torres</player><player>David Villa</player><player>Raul</player><player>Fernando Morientes</player></cluster>
+  <cluster><player>Andriy Shevchenko</player><player>Filippo Inzaghi</player><player>Hernan Crespo</player><player>Christian Vieri</player></cluster>
+  <cluster><player>Dennis Bergkamp</player><player>Eric Cantona</player><player>Gianfranco Zola</player><player>Matt Le Tissier</player></cluster>
+  <cluster><player>Marco van Basten</player><player>Ruud Gullit</player><player>Frank Rijkaard</player><player>Clarence Seedorf</player></cluster>
+  <cluster><player>Peter Schmeichel</player><player>Edwin van der Sar</player><player>David de Gea</player><player>Alisson</player></cluster>
+  <cluster><player>Ashley Cole</player><player>Patrice Evra</player><player>Marcelo</player><player>Andrew Robertson</player></cluster>
+  <cluster><player>Son Heung-min</player><player>Riyad Mahrez</player><player>Eden Hazard</player><player>Leroy Sane</player></cluster>
+  <cluster><player>Paul Pogba</player><player>Toni Kroos</player><player>Ilkay Gundogan</player><player>Bastian Schweinsteiger</player></cluster>
+  <cluster><player>Gareth Bale</player><player>Angel Di Maria</player><player>Antoine Griezmann</player><player>Ousmane Dembele</player></cluster>
+</imposter>

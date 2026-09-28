@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  HEADS UP — the deck. kind is shown to the guesser as a hint:
+  player | club | manager | stadium | nation
+  aliases = other spellings the guesser can type, separated by |
+-->
+<headsup>
+  <card kind="player" aliases="leo messi">Lionel Messi</card>
+  <card kind="player" aliases="cr7|cristiano">Cristiano Ronaldo</card>
+  <card kind="player">Neymar</card>
+  <card kind="player">Kylian Mbappe</card>
+  <card kind="player">Erling Haaland</card>
+  <card kind="player">Mohamed Salah</card>
+  <card kind="player">Harry Kane</card>
+  <card kind="player">Jude Bellingham</card>
+  <card kind="player">Lamine Yamal</card>
+  <card kind="player">Kevin De Bruyne</card>
+  <card kind="player">Virgil van Dijk</card>
+  <card kind="player">Luka Modric</card>
+  <card kind="player">Robert Lewandowski</card>
+  <card kind="player" aliases="vini|vinicius">Vinicius Junior</card>
+  <card kind="player">Bukayo Saka</card>
+  <card kind="player">Phil Foden</card>
+  <card kind="player">Declan Rice</card>
+  <card kind="player">Son Heung-min</card>
+  <card kind="player">Rodri</card>
+  <card kind="player">Pedri</card>
+  <card kind="player" aliases="zizou">Zinedine Zidane</card>
+  <card kind="player">Ronaldinho</card>
+  <card kind="player" aliases="ronaldo|r9">Ronaldo Nazario</card>
+  <card kind="player">Pele</card>
+  <card kind="player">Diego Maradona</card>
+  <card kind="player">Johan Cruyff</card>
+  <card kind="player">Thierry Henry</card>
+  <card kind="player">David Beckham</card>
+  <card kind="player">Wayne Rooney</card>
+  <card kind="player">Steven Gerrard</card>
+  <card kind="player">Frank Lampard</card>
+  <card kind="player">Paul Scholes</card>
+  <card kind="player">Ryan Giggs</card>
+  <card kind="player">Didier Drogba</card>
+  <card kind="player">Zlatan Ibrahimovic</card>
+  <card kind="player">Andrea Pirlo</card>
+  <card kind="player">Paolo Maldini</card>
+  <card kind="player">Gianluigi Buffon</card>
+  <card kind="player">Iker Casillas</card>
+  <card kind="player">Sergio Ramos</card>
+  <card kind="player">Andres Iniesta</card>
+  <card kind="player">Xavi</card>
+  <card kind="player">Kaka</card>
+  <card kind="player">Eric Cantona</card>
+  <card kind="player">Dennis Bergkamp</card>
+  <card kind="player">Alan Shearer</card>
+  <card kind="player">Peter Crouch</card>
+  <card kind="player">Roy Keane</card>
+  <card kind="player">Patrick Vieira</card>
+  <card kind="player">John Terry</card>
+  <card kind="player">Rio Ferdinand</card>
+  <card kind="player">Luis Suarez</card>
+  <card kind="player">Fernando Torres</card>
+  <card kind="player">Gareth Bale</card>
+  <card kind="player">Eden Hazard</card>
+  <card kind="player">Sergio Aguero</card>
+  <card kind="player">N'Golo Kante</card>
+  <card kind="player">Paul Pogba</card>
+  <card kind="player">Karim Benzema</card>
+  <card kind="player">Mesut Ozil</card>
+  <card kind="club" aliases="real">Real Madrid</card>
+  <card kind="club" aliases="barca">Barcelona</card>
+  <card kind="club" aliases="man utd|man united">Manchester United</card>
+  <card kind="club" aliases="man city|city">Manchester City</card>
+  <card kind="club">Liverpool</card>
+  <card kind="club">Arsenal</card>
+  <card kind="club">Chelsea</card>
+  <card kind="club" aliases="spurs">Tottenham</card>
+  <card kind="club" aliases="bayern">Bayern Munich</card>
+  <card kind="club" aliases="juve">Juventus</card>
+  <card kind="club" aliases="milan">AC Milan</card>
+  <card kind="club" aliases="psg">Paris Saint-Germain</card>
+  <card kind="club" aliases="dortmund|bvb">Borussia Dortmund</card>
+  <card kind="club">Ajax</card>
+  <card kind="club" aliases="atletico|atleti">Atletico Madrid</card>
+  <card kind="club">Newcastle United</card>
+  <card kind="club" aliases="boca">Boca Juniors</card>
+  <card kind="club">Celtic</card>
+  <card kind="club">Leicester City</card>
+  <card kind="club">Napoli</card>
+  <card kind="manager" aliases="sir alex|fergie">Alex Ferguson</card>
+  <card kind="manager" aliases="pep">Pep Guardiola</card>
+  <card kind="manager">Jurgen Klopp</card>
+  <card kind="manager" aliases="jose">Jose Mourinho</card>
+  <card kind="manager">Arsene Wenger</card>
+  <card kind="manager">Carlo Ancelotti</card>
+  <card kind="manager">Mikel Arteta</card>
+  <card kind="manager">Diego Simeone</card>
+  <card kind="manager">Antonio Conte</card>
+  <card kind="manager">Claudio Ranieri</card>
+  <card kind="stadium">Wembley</card>
+  <card kind="stadium">Old Trafford</card>
+  <card kind="stadium">Anfield</card>
+  <card kind="stadium" aliases="bernabeu">Santiago Bernabeu</card>
+  <card kind="stadium" aliases="nou camp">Camp Nou</card>
+  <card kind="stadium" aliases="giuseppe meazza">San Siro</card>
+  <card kind="stadium" aliases="maracana stadium">Maracana</card>
+  <card kind="stadium">Signal Iduna Park</card>
+  <card kind="nation">Brazil</card>
+  <card kind="nation">Argentina</card>
+  <card kind="nation">Germany</card>
+  <card kind="nation" aliases="holland">Netherlands</card>
+  <card kind="nation">Croatia</card>
+  <card kind="nation">Morocco</card>
+</headsup>

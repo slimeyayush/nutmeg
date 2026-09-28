@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  TEN — every <list> needs EXACTLY ten answers, with points 1..10 used once each.
+  points = how obscure the answer is: 1 = everyone says it, 10 = nobody remembers.
+  kind="people" also accepts a surname on its own ("Kane"); kind="teams" doesn't.
+  aliases are extra accepted spellings, separated by |
+  Pick FROZEN history (closed date ranges) so a list can never go out of date.
+-->
+<ten>
+  <list question="Ballon d'Or winners from 2000 to 2009" kind="people">
+    <answer points="1"  aliases="leo messi">Lionel Messi</answer>
+    <answer points="2"  aliases="cr7|cristiano">Cristiano Ronaldo</answer>
+    <answer points="3">Ronaldinho</answer>
+    <answer points="4">Kaka</answer>
+    <answer points="5"  aliases="ronaldo|r9|ronaldo nazario">Ronaldo Nazario</answer>
+    <answer points="6"  aliases="luis figo">Luis Figo</answer>
+    <answer points="7">Fabio Cannavaro</answer>
+    <answer points="8"  aliases="sheva">Andriy Shevchenko</answer>
+    <answer points="9">Michael Owen</answer>
+    <answer points="10">Pavel Nedved</answer>
+  </list>
+
+  <list question="World Cup Golden Ball winners from 1982 to 2018" kind="people">
+    <answer points="1"  aliases="leo messi">Lionel Messi</answer>
+    <answer points="2">Diego Maradona</answer>
+    <answer points="3"  aliases="zizou">Zinedine Zidane</answer>
+    <answer points="4"  aliases="ronaldo|r9">Ronaldo Nazario</answer>
+    <answer points="5">Luka Modric</answer>
+    <answer points="6">Oliver Kahn</answer>
+    <answer points="7">Romario</answer>
+    <answer points="8">Diego Forlan</answer>
+    <answer points="9">Paolo Rossi</answer>
+    <answer points="10" aliases="toto schillaci|toto">Salvatore Schillaci</answer>
+  </list>
+
+  <list question="World Cup Golden Boot winners from 1986 to 2018" kind="people">
+    <answer points="1">Harry Kane</answer>
+    <answer points="2"  aliases="ronaldo nazario|r9">Ronaldo</answer>
+    <answer points="3">Miroslav Klose</answer>
+    <answer points="4"  aliases="mueller">Thomas Muller</answer>
+    <answer points="5">Gary Lineker</answer>
+    <answer points="6"  aliases="james">James Rodriguez</answer>
+    <answer points="7">Davor Suker</answer>
+    <answer points="8">Hristo Stoichkov</answer>
+    <answer points="9"  aliases="toto schillaci|toto">Salvatore Schillaci</answer>
+    <answer points="10">Oleg Salenko</answer>
+  </list>
+
+  <list question="World Cup host nations from 1990 to 2022" kind="teams">
+    <answer points="1">Brazil</answer>
+    <answer points="2">Qatar</answer>
+    <answer points="3">Germany</answer>
+    <answer points="4">Russia</answer>
+    <answer points="5">France</answer>
+    <answer points="6"  aliases="usa|us|america|united states of america">United States</answer>
+    <answer points="7">South Africa</answer>
+    <answer points="8">Italy</answer>
+    <answer points="9">Japan</answer>
+    <answer points="10" aliases="korea|korea republic">South Korea</answer>
+  </list>
+
+  <list question="Champions League winners from 1993 to 2005" kind="teams">
+    <answer points="1"  aliases="real|madrid">Real Madrid</answer>
+    <answer points="2">Liverpool</answer>
+    <answer points="3"  aliases="man utd|man united|manchester utd|united">Manchester United</answer>
+    <answer points="4"  aliases="milan|ac milan">AC Milan</answer>
+    <answer points="5"  aliases="bayern|bayern munchen|bayern muenchen">Bayern Munich</answer>
+    <answer points="6"  aliases="fc porto">Porto</answer>
+    <answer points="7"  aliases="juve">Juventus</answer>
+    <answer points="8">Ajax</answer>
+    <answer points="9"  aliases="dortmund|bvb">Borussia Dortmund</answer>
+    <answer points="10" aliases="olympique marseille|om">Marseille</answer>
+  </list>
+
+  <list question="Nations that have won the European Championship" kind="teams">
+    <answer points="1">Spain</answer>
+    <answer points="2"  aliases="west germany">Germany</answer>
+    <answer points="3">France</answer>
+    <answer points="4">Italy</answer>
+    <answer points="5">Portugal</answer>
+    <answer points="6">Greece</answer>
+    <answer points="7"  aliases="holland">Netherlands</answer>
+    <answer points="8">Denmark</answer>
+    <answer points="9"  aliases="ussr">Soviet Union</answer>
+    <answer points="10">Czechoslovakia</answer>
+  </list>
+
+  <list question="Managers who won the Premier League from 1993 to 2019" kind="people">
+    <answer points="1"  aliases="sir alex|sir alex ferguson|fergie">Alex Ferguson</answer>
+    <answer points="2"  aliases="pep">Pep Guardiola</answer>
+    <answer points="3"  aliases="arsene wenger">Arsene Wenger</answer>
+    <answer points="4"  aliases="jose mourinho">Jose Mourinho</answer>
+    <answer points="5">Carlo Ancelotti</answer>
+    <answer points="6">Antonio Conte</answer>
+    <answer points="7">Claudio Ranieri</answer>
+    <answer points="8">Roberto Mancini</answer>
+    <answer points="9"  aliases="king kenny">Kenny Dalglish</answer>
+    <answer points="10">Manuel Pellegrini</answer>
+  </list>
+
+  <list question="Clubs Carlo Ancelotti has managed" kind="teams">
+    <answer points="1"  aliases="real|madrid">Real Madrid</answer>
+    <answer points="2">Chelsea</answer>
+    <answer points="3"  aliases="milan|ac milan">AC Milan</answer>
+    <answer points="4"  aliases="bayern|bayern munchen">Bayern Munich</answer>
+    <answer points="5"  aliases="juve">Juventus</answer>
+    <answer points="6"  aliases="psg|paris|paris saint germain">Paris Saint-Germain</answer>
+    <answer points="7">Napoli</answer>
+    <answer points="8">Everton</answer>
+    <answer points="9">Parma</answer>
+    <answer points="10">Reggiana</answer>
+  </list>
+
+  <list question="Clubs Jose Mourinho has managed" kind="teams">
+    <answer points="1">Chelsea</answer>
+    <answer points="2"  aliases="real|madrid">Real Madrid</answer>
+    <answer points="3"  aliases="man utd|man united|manchester utd|united">Manchester United</answer>
+    <answer points="4"  aliases="inter|internazionale">Inter Milan</answer>
+    <answer points="5"  aliases="spurs|tottenham hotspur">Tottenham</answer>
+    <answer points="6"  aliases="fc porto">Porto</answer>
+    <answer points="7"  aliases="as roma">Roma</answer>
+    <answer points="8">Benfica</answer>
+    <answer points="9">Fenerbahce</answer>
+    <answer points="10" aliases="leiria|uniao leiria">Uniao de Leiria</answer>
+  </list>
+</ten>
